@@ -5,7 +5,6 @@
 <div>
   <a href="https://github.com/matheusvictor0">
   <img heigt="180em" src="https://github-readme-stats.vercel.app/api?username=matheusvictor0&show_icons=true&theme=transparent"/>
-  <img heigt="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusvictor0&layout=compact)](https://github.com/matheusvictor0/github-readme-stats"/>
 </div>
   
 ##
